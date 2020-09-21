@@ -19,7 +19,8 @@ namespace Hello_World_1
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello" + textBox1.Text);
+            MessageBox.Show("Goodbye" + textBox1.Text);
+            MessageBox.Show("welcome")
         }
 
         private void TextBox1_TextChanged(object sender, EventArgs e)
